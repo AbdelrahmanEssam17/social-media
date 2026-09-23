@@ -3,7 +3,6 @@ import { createBrowserRouter, RouterProvider } from "react-router-dom";
 
 import MainLayout from "./Layouts/MainLayout";
 import AuthLayout from "./Layouts/AuthLayout";
-import login from "./Pages/Login";
 import Feedpage from "./Pages/Feedpage";
 import Login from "./Pages/Login";
 import Profile from "./Pages/Profile";
